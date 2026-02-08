@@ -28,3 +28,7 @@ maintaining data security and preventing proxy attendance.
 
 ## Note
 This project was developed as part of a final-year academic project.
+
+
+Sensitive keys are stored in environment variables and are not included in the repository.
+
